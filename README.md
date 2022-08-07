@@ -1,0 +1,2 @@
+# whatsapp-clone
+This is a Frontend for WhatsApp application. This application gives you a demo of WhatsApp Web interface that you see when you log into the WhatsApp web. This application uses Google Firebase as a backend technology. I have also provided Google Authentication i.e. you will have a google account login and also this application provides message store facility using Google's FireCloud storage. Hope you will like this project!
